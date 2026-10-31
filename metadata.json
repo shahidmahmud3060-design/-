@@ -1,0 +1,6 @@
+{
+  "name": "মাহফিল Schedule - মাহফিলের সময়সূচি",
+  "description": "A premium, lightweight, mobile-first Islamic Mahfil Schedule application for Bangladesh with verified speakers, schedules, poster studio, and location directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
